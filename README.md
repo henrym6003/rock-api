@@ -1,4 +1,4 @@
-#Rock API
+# Rock API
 A gravity simulator for falling rocks
 
 ## Architecture
